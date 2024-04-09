@@ -1,6 +1,4 @@
-# British-Airways-Review-Dashboard
-
-# Readme File for British Airways Review Dashboard in Tableau
+# British-Airways-Review-Dashboard-in-Tableau
 
 ## Overview
 This repository contains a Tableau dashboard showcasing the reviews of British Airways, including information about their aircraft, services, staff, and ratings given by both the country and the customers. The dashboard is designed to provide a comprehensive overview of British Airways' performance and customer satisfaction.
