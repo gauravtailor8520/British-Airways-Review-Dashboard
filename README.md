@@ -43,7 +43,7 @@ To utilize this Tableau dashboard effectively, follow these steps:
 ## Data Sources
 The data used in this dashboard is derived from customer reviews, service ratings, and staff performance evaluations related to British Airways.
 
-## British Airways Dashboard:
+## British Airways Dashboard
 [click here](https://public.tableau.com/shared/C5PCHZWX3?:display_count=n&:origin=viz_share_link)
 
 ## Contributing
